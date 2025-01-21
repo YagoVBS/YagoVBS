@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Atualmente, estou focado em aprimorar minhas habilidades em Python, explorando diferentes frameworks e ferramentas para o desenvolvimento web.  <br>Tenho experiência com Django, Flask e FastAPI, além de diversas outras tecnologias que me permitem criar aplicações robustas e escaláveis.<br><br>Minha stack inclui:<br><br>- Python: Foco em desenvolvimento backend<br>- Django: Framework web para construção de APIs e aplicações completas<br>- Django REST Framework: Criação de APIs RESTful<br>- Flask: Framework minimalista para aplicações web simples e eficientes<br>- FastAPI: Framework moderno e rápido para construir APIs com validações automáticas<br>- HTML/CSS/JavaScript: Para integrar a parte frontend das aplicações<br><br>Estou constantemente aprendendo e evoluindo para entregar soluções mais eficientes e adaptáveis.</p>
+<p align="left">Atualmente, estou focado em aprimorar minhas habilidades em Python, explorando diferentes frameworks e ferramentas para o desenvolvimento web.  <br>Tenho experiência com Django e FastAPI, além de diversas outras tecnologias que me permitem criar aplicações robustas e escaláveis.<br><br>Minha stack inclui:<br><br>- Python: Foco em desenvolvimento backend<br>- Django: Framework web para construção de APIs e aplicações completas<br>- Django REST Framework: Criação de APIs RESTful<br>- FastAPI: Framework moderno e rápido para construir APIs com validações automáticas<br>- HTML/CSS/JavaScript: Para integrar a parte frontend das aplicações<br><br>Estou constantemente aprendendo e evoluindo para entregar soluções mais eficientes e adaptáveis.</p>
 
 ###
 
@@ -22,8 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
