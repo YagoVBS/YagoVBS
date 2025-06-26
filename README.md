@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! Seja bem-vindo(a) ao meu GitHub</h1>
 
 ###
-
+<br>
 <p align="left">
 Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantação de sistemas de gestão empresarial. Auxilio clientes na parametrização, validação e uso das soluções RM, otimizando processos e garantindo o melhor aproveitamento das <strong>soluções TOTVS RM</strong>.
 </p>
@@ -11,7 +11,7 @@ Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantaç�
 <h2 align="center">Sobre mim:</h2>
 
 ###
-
+<br>
 <h4 align="left">
 ✨ Criando bugs desde 2024 <br><br>
 🐍 Python | Scripts, Automações, APIs RESTful, Django e FastAPI<br><br>
@@ -31,7 +31,9 @@ Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantaç�
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+  <a href="https://www.credly.com/badges/e03c1e2d-68b9-4222-975a-48abc144526a" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+  </a>
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="25" />
@@ -51,10 +53,10 @@ Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantaç�
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yagovbs/" target="_blank">
+  <a href="https://www.linkedin.com/in/yagovbs/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:yago.vbs123@gmail.com" target="_blank">
+  <a href="mailto:yago.vbs123@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo" />
   </a>
 </div>
@@ -63,9 +65,9 @@ Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantaç�
 
 ###
 
-<h2 align="center">🐍 Snake Contribution</h2>
 
-<p align="center">
-  <img src="https://github.com/YagoVBS/YagoVBS/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YagoVBS&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-</p>
+###
