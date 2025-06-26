@@ -1,43 +1,70 @@
-<h1 align="left">Olá  Seja Bem-vindo(a) ao meu Github !👋</h1>
+<h1 align="center">👋 Hey! Seja bem-vindo(a) ao meu GitHub</h1>
 
 ###
 
-<p align="left">Sou o Yago um desenvolvedor Python em busca de minha primeira oportunidade como desenvolvedor júnior.  <br><br>Explore meus projetos e fique à vontade para entrar em contato!</p>
+<p align="left">
+Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantação de sistemas de gestão empresarial. Auxilio clientes na parametrização, validação e uso das soluções RM, otimizando processos e garantindo o melhor aproveitamento das <strong>soluções TOTVS RM</strong>.
+</p>
 
 ###
 
-<h2 align="left">Sobre</h2>
+<h2 align="center">Sobre mim:</h2>
 
 ###
 
-<p align="left">Atualmente, estou focado em aprimorar minhas habilidades em Python, explorando diferentes frameworks e ferramentas para o desenvolvimento web.  <br>Tenho experiência com Django e FastAPI, além de diversas outras tecnologias que me permitem criar aplicações robustas e escaláveis.<br><br>Minha stack inclui:<br><br>- Python: Foco em desenvolvimento backend<br>- Django: Framework web para construção de APIs e aplicações completas<br>- Django REST Framework: Criação de APIs RESTful<br>- FastAPI: Framework moderno e rápido para construir APIs com validações automáticas<br>- HTML/CSS/JavaScript: Para integrar a parte frontend das aplicações<br><br>Estou constantemente aprendendo e evoluindo para entregar soluções mais eficientes e adaptáveis.</p>
+<h4 align="left">
+✨ Criando bugs desde 2024 <br><br>
+🐍 Python | Scripts, Automações, APIs RESTful, Django e FastAPI<br><br>
+🌐 Google Cloud | Fundamentos de Cloud Computing e IA Gen<br><br>
+📚 Atualmente estudando: C# | .NET | Arquitetura de Sistemas<br><br>
+🎯 Objetivos: Crescimento profissional em tecnologia, contribuindo com soluções eficientes
+</h4>
 
 ###
 
-<h2 align="left">Eu programo em:</h2>
+<h2 align="center">Tecnologias e ferramentas:</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql logo" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
 
 ###
+
+<h2 align="center">Contato:</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yagovbs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:yago.vbs123@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo" />
+  </a>
+</div>
+
+<p align="center">📬 Sinta-se à vontade para entrar em contato ou se conectar!</p>
+
+###
+
+<h2 align="center">🐍 Snake Contribution</h2>
+
+<p align="center">
+  <img src="https://github.com/yagovbs/yagovbs/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
