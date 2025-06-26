@@ -66,5 +66,6 @@ Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantaç�
 <h2 align="center">🐍 Snake Contribution</h2>
 
 <p align="center">
-  <img src="https://github.com/yagovbs/yagovbs/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/YagoVBS/YagoVBS/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+
 </p>
