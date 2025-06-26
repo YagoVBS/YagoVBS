@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! Seja bem-vindo(a) ao meu GitHub</h1>
 
 ###
-<br>
+
 <p align="left">
 Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantação de sistemas de gestão empresarial. Auxilio clientes na parametrização, validação e uso das soluções RM, otimizando processos e garantindo o melhor aproveitamento das <strong>soluções TOTVS RM</strong>.
 </p>
@@ -11,7 +11,7 @@ Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantaç�
 <h2 align="center">Sobre mim:</h2>
 
 ###
-<br>
+
 <h4 align="left">
 ✨ Criando bugs desde 2024 <br><br>
 🐍 Python | Scripts, Automações, APIs RESTful, Django e FastAPI<br><br>
